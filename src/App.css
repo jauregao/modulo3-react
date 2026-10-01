@@ -1,0 +1,10 @@
+.caixa {
+  padding: 10px 20px;
+  background-color: rgb(0, 61, 61);
+  width: 200px;
+  margin: 0 auto;
+}
+
+.azul {
+  background-color: blue;
+}
